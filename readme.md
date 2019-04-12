@@ -1,6 +1,7 @@
 # Configurando meu ambiente de desenvolvimento
 
-Manter em algum lugar todas as configurações que eu costumo ter em meu ambiente de trabalho, me mantem organizado, poupando um pouco de recurso de memoria para armazenar outros dados.
+Manter todas as configurações que eu costumo ter em meu ambiente de trabalho. 
+Este repositório me mantem organizado.
 
 ## Visual studio Code
 
