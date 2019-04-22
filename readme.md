@@ -3,6 +3,13 @@
 Manter todas as configurações que eu costumo ter em meu ambiente de trabalho. 
 Este repositório me mantem organizado.
 
+## Ferramentas 
+
+- YARN 
+- VS Code
+- Postman
+- MongoDB Compass
+
 ## Visual studio Code
 
 - Deletar todas as extensões do VS Code, afim de configurar um novo grupo de extensões sem se preocupar com imcompatibilidade
