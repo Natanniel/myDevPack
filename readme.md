@@ -9,8 +9,9 @@ Este repositório me mantem organizado.
 - VS Code
 - Postman
 - MongoDB Compass
+- GIT
 
-## Visual studio Code
+## Visual Studio Code
 
 - Deletar todas as extensões do VS Code, afim de configurar um novo grupo de extensões sem se preocupar com imcompatibilidade
 - Instalar o extensão de tema Dracula e modificar Color Theme para o Dracula
