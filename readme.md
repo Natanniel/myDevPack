@@ -5,6 +5,7 @@ Este repositório me mantem organizado.
 
 ## Ferramentas 
 
+- Chocolatey (Versionador de pacotes para o Windows)
 - YARN 
 - VS Code
 - Postman
